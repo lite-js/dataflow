@@ -1,0 +1,23 @@
+{
+  "name": "@lite-js/dataflow",
+  "version": "0.0.1",
+  "description": "data processing pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lite-js/dataflow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lite-js/dataflow/issues"
+  },
+  "homepage": "https://github.com/lite-js/dataflow#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "wolfy87-eventemitter": "^5.2.4"
+  }
+}
